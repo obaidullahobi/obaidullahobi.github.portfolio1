@@ -1,0 +1,42 @@
+
+.w3-quarter h2{
+    text-align: left;
+    color: blue;
+}
+.w3-container1 h3{
+    color: deeppink;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.w3-container1 p{
+    text-align: justify;
+   
+    font-size: 15px;
+    width: 98%;
+    padding: 11px;
+}
+
+ul li h1{
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+
+ul li p{
+    color: black;
+    
+}
+#programmes{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+#mybackground {
+    text-transform: uppercase;
+}
+#education{
+    text-transform: capitalize;
+}
